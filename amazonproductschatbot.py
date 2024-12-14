@@ -16,7 +16,6 @@ import io
 import numpy as np
 from PIL import Image
 import streamlit as st
-import pysqlite3
 
 persist_directory = "/Users/Heidi/Downloads/chroma_data_storage"
 
