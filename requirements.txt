@@ -5,3 +5,4 @@ openai
 ipython 
 pillow 
 streamlit
+langchain_chroma
