@@ -16,9 +16,6 @@ import io
 import numpy as np
 from PIL import Image
 import streamlit as st
-import sqlite3
-
-st.write("SQLite version:", sqlite3.sqlite_version)
 
 persist_directory = "/Users/Heidi/Downloads/chroma_data_storage"
 
