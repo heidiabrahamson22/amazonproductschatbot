@@ -6,4 +6,3 @@ ipython
 pillow 
 streamlit
 langchain_chroma
-pysqlite3-binary
